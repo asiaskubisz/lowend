@@ -1,0 +1,25 @@
+{
+  "name": "kodilla-17588",
+  "version": "1.0.0",
+  "description": "Example grunt project",
+  "main": "index.js",
+  "scripts": {
+    "test": "kodilla-test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/asiaskubisz/lowend.git"
+  },
+  "keywords": [
+    "grunt"
+  ],
+  "author": "Joanna Skubisz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/asiaskubisz/lowend/issues"
+  },
+  "homepage": "https://github.com/asiaskubisz/lowend#readme",
+  "devDependencies": {
+    "grunt": "^1.0.1"
+  }
+}
