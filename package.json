@@ -20,6 +20,12 @@
   },
   "homepage": "https://github.com/asiaskubisz/lowend#readme",
   "devDependencies": {
-    "grunt": "^1.0.1"
+    "grunt": "^1.0.1",
+    "grunt-browser-sync": "^2.2.0",
+    "grunt-contrib-imagemin": "^1.0.1",
+    "grunt-contrib-watch": "^1.0.0",
+    "grunt-sass": "^2.0.0",
+    "install": "^0.8.7",
+    "npm": "^4.2.0"
   }
 }
